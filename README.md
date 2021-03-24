@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[https://www.instagram.com/devbogoodski/](@devbogoodski)
+[@devbogoodski](https://www.instagram.com/devbogoodski/)
 
 <!--
 **sbogucki12/sbogucki12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
