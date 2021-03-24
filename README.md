@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<p>[@devbogoodski](https://www.instagram.com/devbogoodski/)</p>
+<p>[https://www.instagram.com/devbogoodski/](@devbogoodski)</p>
 
-<p>🔭 I’m currently working on [a generic company website](https://github.com/sbogucki12/companysite)</p>
+<p>🔭 I’m currently working on [https://github.com/sbogucki12/companysite](a generic company website).</p>
 
 
