@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p>I'm Steve.  I'm currently working on:</p> 
-<p><b>June 10, 2021:</b></p> 
+<p><b>June 14, 2021:</b></p> 
 <ul>
   <li>Throwing together a website for <a href="https://github.com/sbogucki12/djbogoodski">DJ BoGoodSki</a> to support my music mixing hobby.</li>
 </ul>  
