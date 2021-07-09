@@ -2,12 +2,12 @@
 
 <p>I'm Steve. My current activity:</p> 
 
-<p><b>July 6, 2021:</b></p> 
+<p><b>July 9, 2021:</b></p> 
 <ul>
   <li>Throwing together a website for <a href="https://github.com/sbogucki12/djbogoodski">DJ BoGoodSki</a> to support my music mixing hobby.</li>
  <ul>
-<li>Added an additional output binding to the Azure Function so it returns a standard HTTP response in JSON.</li>
-<li>Calling the Azure Function in the React app.  Set up a quick button with click-event to test.</li>
+<li>Successfully tested: HTTP req from deployed React app to Azure function, sending email to inbox via SendGrid</li>
+   <ul><li>This will eventually support my contact form.</li></ul>
 </ul>
 
 <img src="https://raw.githubusercontent.com/sbogucki12/djbogoodski/main/readmeFiles/output_bindings.jpg" />
