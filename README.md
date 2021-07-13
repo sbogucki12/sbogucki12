@@ -2,7 +2,7 @@
 
 <p>I'm Steve. My current activity:</p> 
 
-<p><b>July 12, 2021:</b></p> 
+<p><b>July 13, 2021:</b></p> 
 <ul>
   <li>Throwing together a website for <a href="https://github.com/sbogucki12/djbogoodski">DJ BoGoodSki</a> to support my music mixing hobby.</li>
  <ul>
@@ -10,7 +10,7 @@
    <ul><li>This will eventually support my contact form.</li></ul>
    <li>Styling the custom contact form.</li>
 </ul>
-<img src="https://raw.githubusercontent.com/sbogucki12/djbogoodski/main/readmeFiles/contactFormGIF.gif" />  
+<img src="https://raw.githubusercontent.com/sbogucki12/djbogoodski/main/readmeFiles/contactFormGIF.gif" />
 
 <img src="https://raw.githubusercontent.com/sbogucki12/djbogoodski/main/readmeFiles/output_bindings.jpg" />
 </ul> 
