@@ -7,11 +7,12 @@
   <li>Throwing together a website for <a href="https://github.com/sbogucki12/djbogoodski">DJ BoGoodSki</a> to support my music mixing hobby.</li>
   <li>Working on the styling. Dynamically resizes for mobile:</li>
   <img src="https://raw.githubusercontent.com/sbogucki12/djbogoodski/main/readmeFiles/stylingGIF.gif" />
- <ul>
-   <i>Previously:</i>
-<li>Successfully tested: HTTP req from deployed React app to Azure function, sending email to inbox via SendGrid</li>
+ </ul>
+ <i>Previously:</i>
+<ul>
+  <li>Successfully tested: HTTP req from deployed React app to Azure function, sending email to inbox via SendGrid</li>
    <ul><li>This will eventually support my contact form.</li></ul>   
-</ul>
+
 <img src="https://raw.githubusercontent.com/sbogucki12/djbogoodski/main/readmeFiles/output_bindings.jpg" />
 </ul> 
 
