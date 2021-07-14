@@ -2,6 +2,9 @@
 
 <p>I'm Steve. My current activity:</p> 
 
+<p><b>July 14, 2021:</b></p>
+<p><a href="http://djbogoodski.com">DJBogoodski.com</a> is now a thing :) </p>
+
 <p><b>July 13, 2021:</b></p> 
 <ul>
   <li>Throwing together a website for <a href="https://github.com/sbogucki12/djbogoodski">DJ BoGoodSki</a> to support my music mixing hobby.</li>
