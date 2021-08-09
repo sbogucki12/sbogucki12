@@ -2,20 +2,13 @@
 
 <p>I'm Steve. My current activity:</p> 
 
-<p><b>July 21, 2021:</b></p>
-<ul>
-  <li>Added portfolio examples to the Services component of <a href="https://corregidortech.azurewebsites.net/">CorregidorTech.com</a>
-    <br>
-<img src="https://raw.githubusercontent.com/sbogucki12/corregidor2020UI/master/readmeFiles/servicesUpdate.jpg" />
-  </li>
-  </ul>
-  
+**Aug. 8, 2021:**
 
-<p><b>July 20, 2021:</b></p>
 <ul>
-<li>Added an "About" component to <a href="http://djbogoodski.azurewebsites.net/" target="_blank">DJBogoodski.com</a></li>
+<li>Added Cheat Code Volume 9 to DJBogoodski.com.</li>
 </ul>
-<p><img src="https://raw.githubusercontent.com/sbogucki12/djbogoodski/main/readmeFiles/aboutGIF.gif" /></p>
+
+<img src="https://raw.githubusercontent.com/sbogucki12/djbogoodski/main/readmeFiles/cheatcodevol9.jpg" />
 
 <p><b>Previously:</b></p> 
 
