@@ -2,14 +2,13 @@
 
 <p>I'm Steve. My current activity:</p> 
 
-**Aug. 8, 2021:**
+**Aug. 10, 2021:**
 
 <ul>
-<li>Added Cheat Code Volume 9 to DJBogoodski.com.</li>
+<li>Added archive component to DJBogoodski.com.</li>
 </ul>
 
-<img src="https://raw.githubusercontent.com/sbogucki12/djbogoodski/main/readmeFiles/cheatcodevol9.jpg" />
-
+<img src="https://raw.githubusercontent.com/sbogucki12/djbogoodski/main/readmeFiles/archive0GIF.gif" />
 <p><b>Previously:</b></p> 
 
 <ul>  
