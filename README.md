@@ -5,7 +5,7 @@
 **Aug. 11, 2021:**
 
 <ul>
-<li>Refined the custom routing.</li>
+<li>Refined the custom routing on DJBOGOODSKI.com.</li>
 <ul>
 <li>Users can navigate by changing pathname in URL. So, now "pages" can be bookmarked.</li>
 <li>Users can navigate by clicking around. Pathname updates accordingly.</li>
