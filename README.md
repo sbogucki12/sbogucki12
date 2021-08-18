@@ -2,26 +2,23 @@
 
 <p>I'm Steve. My current activity:</p> 
 
-**Aug. 11, 2021:**
+**Aug. 18, 2021:**
 
-<ul>
-<li>Refined the custom routing on DJBOGOODSKI.com.</li>
-<ul>
-<li>Users can navigate by changing pathname in URL. So, now "pages" can be bookmarked.</li>
-<li>Users can navigate by clicking around. Pathname updates accordingly.</li>
-</ul>
-</ul>
+<p>Added Cheat Code Radio volume 10 to DJBogoodski.com.</p>
 
-<img src="https://raw.githubusercontent.com/sbogucki12/djbogoodski/main/readmeFiles/routingGIF.gif" />
-<img src="https://raw.githubusercontent.com/sbogucki12/djbogoodski/main/readmeFiles/routingJPG.jpg" />
+<img src="https://raw.githubusercontent.com/sbogucki12/djbogoodski/main/readmeFiles/cheatCodeRadioVol10.jpg" />
+
+
+
 
 <p><b>Previously:</b></p> 
 
 <ul>
+<li>Refined the custom routing on DJBOGOODSKI.com.</li>
 <li>Added archive component to DJBogoodski.com.</li>
 </ul>
 
-<img src="https://raw.githubusercontent.com/sbogucki12/djbogoodski/main/readmeFiles/archive0GIF.gif" />
+
 
 
 <ul>  
