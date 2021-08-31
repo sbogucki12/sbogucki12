@@ -2,11 +2,9 @@
 
 <p>I'm Steve. My current activity:</p> 
 
-**Aug. 18, 2021:**
+**Aug. 30, 2021:**
 
-<p>Added Cheat Code Radio volume 10 to <a href="https://djbogoodski.azurewebsites.net">DJBogoodski.com</a>.</p>
-
-<img src="https://raw.githubusercontent.com/sbogucki12/djbogoodski/main/readmeFiles/cheatCodeRadioVol10.jpg" />
+<p>Began something new over at Hack The Box :) </p>
 
 
 
@@ -14,6 +12,7 @@
 <p><b>Previously:</b></p> 
 
 <ul>
+  <li>Added Cheat Code Radio volume 10 to <a href="https://djbogoodski.azurewebsites.net">DJBogoodski.com</a>.</li>
 <li>Refined the custom routing on <a href="https://djbogoodski.azurewebsites.net">DJBogoodski.com</a>.</li>
 <li>Added archive component to <a href="https://djbogoodski.azurewebsites.net">DJBogoodski.com</a>.</li>
 <li><a href="https://djbogoodski.azurewebsites.net">DJBogoodski.com</a> is now a thing :)</li>
