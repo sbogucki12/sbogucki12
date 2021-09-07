@@ -2,30 +2,25 @@
 
 <p>I'm Steve. My current activity:</p> 
 
-**Sept. 4, 2021:**
-<p>Added Cheat Code Radio volume 11 <a href="https://djbogoodski.azurewebsites.net">DJBogoodski.com</a></p>
+**Sept. 6, 2021:**
 
-<img src="https://raw.githubusercontent.com/sbogucki12/djbogoodski/main/readmeFiles/cheatCodeVol11.jpg" />
-
-**Aug. 30, 2021:**
-
-<p>Began something new over at Hack The Box :) </p>
-
+<p>Beginning to tackle Blazor. Primary learning resource: <a href="https://www.youtube.com/channel/UC-ptWR16ITQyYOglXyQmpzw">Tim Corey Videos</a> on youtube</p>
 
 
 
 <p><b>Previously:</b></p> 
 
 <ul>
-
-<li><a href="https://djbogoodski.azurewebsites.net">DJBogoodski.com</a> is now a thing :)</li>
+  <li>Began something new over at Hack The Box :) </li>
+  <li><a href="https://djbogoodski.azurewebsites.net">DJBogoodski.com</a> is now a thing :)</li>
   <ul>
+    <li>Added Cheat Code Radio volume 11:
+    <img src="https://raw.githubusercontent.com/sbogucki12/djbogoodski/main/readmeFiles/cheatCodeVol11.jpg" /></li>
     <li>Added Cheat Code Radio volume 10.</li>
     <li>Refined the custom routing.</li>
     <li>Added archive component.</li>
     <li>Successfully implemented: Azure Function triggered by HTTP request that outputs an email via SendGrid. Provides functionality to the contact form.</li>
   </ul>
-
 <li> Practicing <a href="https://github.com/sbogucki12/AlgosAndDataStructures">data structure and algorithm fundamentals</a>.</li> 
 </ul>  
 
