@@ -2,10 +2,14 @@
 
 <p>I'm Steve. My current activity:</p> 
 
-**Sept. 6, 2021:**
-
-<p>Beginning to tackle Blazor. Primary learning resource: <a href="https://www.youtube.com/channel/UC-ptWR16ITQyYOglXyQmpzw">Tim Corey Videos</a> on youtube</p>
-
+**Sept. 7, 2021:**
+<ul>
+<li>Beginning to tackle Blazor. Primary learning resource: <a href="https://www.youtube.com/channel/UC-ptWR16ITQyYOglXyQmpzw">Tim Corey Videos</a> on youtube</li>
+<li>Consuming my RunLog API data and displaying on client:
+  <br>
+  <img src="https://raw.githubusercontent.com/sbogucki12/blazortutorial/main/readme/blazor0GIF.gif" />
+  </li>
+</ul>
 
 
 <p><b>Previously:</b></p> 
