@@ -2,20 +2,16 @@
 
 <p>I'm Steve. My current activity:</p> 
 
-**Sept. 7, 2021:**
-<ul>
-<li>Beginning to tackle Blazor. Primary learning resource: <a href="https://www.youtube.com/channel/UC-ptWR16ITQyYOglXyQmpzw">Tim Corey Videos</a> on youtube</li>
-<li>Consuming my RunLog API data and displaying on client:
-  <br>
-  <img src="https://raw.githubusercontent.com/sbogucki12/blazortutorial/main/readme/blazor0GIF.gif" />
-  </li>
-</ul>
+**Sept. 10, 2021:**
+<p>Restarted (from scratch) work on an old project (<a href="https://github.com/sbogucki12/dwalesska"> Repo Here</a>):</p>
+<img src="https://raw.githubusercontent.com/sbogucki12/dwalesska/main/readmeFiles/desktopLayout0GIF.gif" />
 
 
 <p><b>Previously:</b></p> 
 
 <ul>
   <li>Began something new over at Hack The Box :) </li>
+  <li>Beginning to tackle Blazor. Primary learning resource: <a href="https://www.youtube.com/channel/UC-ptWR16ITQyYOglXyQmpzw">Tim Corey Videos</a> on youtube</li>
   <li><a href="https://djbogoodski.azurewebsites.net">DJBogoodski.com</a> is now a thing :)</li>
   <ul>
     <li>Added Cheat Code Radio volume 11:
