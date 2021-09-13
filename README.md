@@ -2,9 +2,9 @@
 
 <p>I'm Steve. My current activity:</p> 
 
-**Sept. 10, 2021:**
-<p>Restarted (from scratch) work on an old project (<a href="https://github.com/sbogucki12/dwalesska"> Repo Here</a>):</p>
-<img src="https://raw.githubusercontent.com/sbogucki12/dwalesska/main/readmeFiles/desktopLayout0GIF.gif" />
+**Sept. 13, 2021:**
+<p>Working on (<a href="https://github.com/sbogucki12/dwalesska"> dwalesska.com</a>):</p>
+<img src="https://raw.githubusercontent.com/sbogucki12/dwalesska/main/readmeFiles/mainDesktop0GIF.gif" />
 
 
 <p><b>Previously:</b></p> 
