@@ -3,9 +3,16 @@
 <p>I'm Steve. My current activity:</p> 
 
 **Sept. 20, 2021:**
-<p>Added placeholder functionality to chatbox on (<a href="https://github.com/sbogucki12/dwalesska"> dwalesska.com</a>) repo:</p>
+<ul>
+    <li>
+        Added placeholder "Submittal" functionality to chatbox.
+    </li>
+    <li>
+        Started About Me page.
+    </li>
+</ul>
 
-<img src="https://raw.githubusercontent.com/sbogucki12/dwalesska/main/readmeFiles/chatBoxSubmittal0GIF.gif" />
+<img src="https://raw.githubusercontent.com/sbogucki12/dwalesska/main/readmeFiles/aboutMe0GIF.gif" />
 
 <p><b>Previously:</b></p> 
 
