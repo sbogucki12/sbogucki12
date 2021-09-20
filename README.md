@@ -2,10 +2,10 @@
 
 <p>I'm Steve. My current activity:</p> 
 
-**Sept. 16, 2021:**
-<p>More styling on the custom chatbox at (<a href="https://github.com/sbogucki12/dwalesska"> dwalesska.com</a>):</p>
-<img src="https://raw.githubusercontent.com/sbogucki12/dwalesska/main/readmeFiles/chatboxGIF1.gif" />
+**Sept. 20, 2021:**
+<p>Added placeholder functionality to chatbox on (<a href="https://github.com/sbogucki12/dwalesska"> dwalesska.com</a>) repo:</p>
 
+<img src="https://raw.githubusercontent.com/sbogucki12/dwalesska/main/readmeFiles/chatBoxSubmittal0GIF.gif" />
 
 <p><b>Previously:</b></p> 
 
