@@ -2,17 +2,11 @@
 
 <p>I'm Steve. My current activity:</p> 
 
-**Sept. 20, 2021:**
-<ul>
-    <li>
-        Added placeholder "Submittal" functionality to chatbox.
-    </li>
-    <li>
-        Started About Me page.
-    </li>
-</ul>
+## Sept 27, 2021
 
-<img src="https://raw.githubusercontent.com/sbogucki12/dwalesska/main/readmeFiles/aboutMe0GIF.gif" />
+<p>Implemented React context to provide bilingual localization to <a href="https://github.com/sbogucki12/dwalesska"> dwalesska repo </a>:</p>
+
+<img src="https://raw.githubusercontent.com/sbogucki12/dwalesska/main/readmeFiles/context0GIF.gif" />
 
 <p><b>Previously:</b></p> 
 
