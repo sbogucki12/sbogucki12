@@ -2,11 +2,13 @@
 
 <p>I'm Steve. My current activity:</p> 
 
-## Sept 27, 2021
+## Oct 5, 2021
 
-<p>Implemented React context to provide bilingual localization to <a href="https://github.com/sbogucki12/dwalesska"> dwalesska repo </a>:</p>
+<p>Building out the contact page in the <a href="https://github.com/sbogucki12/dwalesska"> dwalesska repo </a>:</p>
 
-<img src="https://raw.githubusercontent.com/sbogucki12/dwalesska/main/readmeFiles/context0GIF.gif" />
+<img src="https://raw.githubusercontent.com/sbogucki12/dwalesska/main/readmeFiles/contact2GIF.gif" />
+
+
 
 <p><b>Previously:</b></p> 
 
