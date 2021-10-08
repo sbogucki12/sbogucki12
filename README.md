@@ -2,11 +2,11 @@
 
 <p>I'm Steve. My current activity:</p> 
 
-## Oct 5, 2021
+## Oct 7, 2021
 
-<p>Building out the contact page in the <a href="https://github.com/sbogucki12/dwalesska"> dwalesska repo </a>:</p>
+<p>Started the mobile view in the <a href="https://github.com/sbogucki12/dwalesska"> dwalesska repo </a>:</p></p>
 
-<img src="https://raw.githubusercontent.com/sbogucki12/dwalesska/main/readmeFiles/contact2GIF.gif" />
+<img src="https://raw.githubusercontent.com/sbogucki12/dwalesska/main/readmeFiles/mobile0GIF.gif" />
 
 
 
