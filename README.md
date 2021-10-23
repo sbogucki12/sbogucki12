@@ -2,6 +2,10 @@
 
 <p>I'm Steve. My current activity:</p> 
 
+## Oct 22, 2021
+
+<p>Started budiling an accordian for the mobile FAQS at <a href="https://github.com/sbogucki12/dwalesska"> dwalesska repo </a>:</p>
+
 
 ## Oct 19, 2021
 
