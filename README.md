@@ -2,16 +2,13 @@
 
 <p>I'm Steve. My current activity:</p> 
 
-## Oct 22, 2021
+## Oct 30, 2021
 
-<p>Started budiling an accordian for the mobile FAQS at <a href="https://github.com/sbogucki12/dwalesska"> dwalesska repo </a>:</p>
+<p>Added the FAQ Accordion to the desktop view at <a href="https://github.com/sbogucki12/dwalesska"> dwalesska repo </a>:</p>
+
+<img src="https://raw.githubusercontent.com/sbogucki12/dwalesska/main/readmeFiles/aboutMe1GIF.gif" />
 
 
-## Oct 19, 2021
-
-<p>Building out mobile "About Me" component in the <a href="https://github.com/sbogucki12/dwalesska"> dwalesska repo </a>:</p>
-
-<img src="https://raw.githubusercontent.com/sbogucki12/dwalesska/main/readmeFiles/mobile4GIF.gif" />
 
 
 
