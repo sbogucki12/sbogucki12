@@ -2,6 +2,10 @@
 
 <p>I'm Steve. My current activity:</p> 
 
+## Nov. 1, 2021
+
+<p>Built a .NET Core Web Api. In another repo. Sending captcha data via fetch from client to server. From server to google.  Return google verification response back to client.</p>
+
 ## Oct 30, 2021
 
 <p>Added the FAQ Accordion to the desktop view at <a href="https://github.com/sbogucki12/dwalesska"> dwalesska repo </a>:</p>
