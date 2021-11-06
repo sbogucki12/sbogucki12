@@ -2,21 +2,27 @@
 
 <p>I'm Steve. My current activity:</p> 
 
-## Nov. 1, 2021
+## Nov. 5, 2021
 
-<p>Built a .NET Core Web Api. In another repo. Sending captcha data via fetch from client to server. From server to google.  Return google verification response back to client.</p>
+<p>Built a .NET Core Web Api. <a href="https://github.com/sbogucki12/dwalesskaAPI">REPO</a></p>
 
-## Oct 30, 2021
+<ul>
+<li>First Commit.</li>
+<li>Created action method for handling Recaptcha Verification:
+</ul>
 
-<p>Added the FAQ Accordion to the desktop view at <a href="https://github.com/sbogucki12/dwalesska"> dwalesska repo </a>:</p>
+<img src="https://github.com/sbogucki12/dwalesskaAPI/blob/main/readmeFiles/recaptcha0.jpg" />
 
-<img src="https://raw.githubusercontent.com/sbogucki12/dwalesska/main/readmeFiles/aboutMe1GIF.gif" />
 
 
 
 
 
 <p><b>Previously:</b></p> 
+
+<p>Added the FAQ Accordion to the desktop view at <a href="https://github.com/sbogucki12/dwalesska"> dwalesska repo </a>:</p>
+
+<img src="https://raw.githubusercontent.com/sbogucki12/dwalesska/main/readmeFiles/aboutMe1GIF.gif" />
 
 <ul>
   <li>Began something new over at Hack The Box :) </li>
