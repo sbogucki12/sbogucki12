@@ -2,23 +2,18 @@
 
 <p>I'm Steve. My current activity:</p> 
 
-## Nov. 5, 2021
+## Nov 10, 2021
 
-<p>Built a .NET Core Web Api. <a href="https://github.com/sbogucki12/dwalesskaAPI">REPO</a></p>
+<p>Implementing SendGrid service in .NET 5 (via Azure). <a href="https://github.com/sbogucki12/dwalesskaAPI">REPO</a> </p>
 
 <ul>
-<li>First Commit.</li>
-<li>Created action method for handling Recaptcha Verification:
+<li><img src="https://github.com/sbogucki12/dwalesskaAPI/blob/main/readmeFiles/sendGridPostman0.jpg" /></li>
+<li><img src="https://github.com/sbogucki12/dwalesskaAPI/blob/main/readmeFiles/sendGrid0.jpg" /></li>
+<li><img src="https://github.com/sbogucki12/dwalesskaAPI/blob/main/readmeFiles/sendGridEmail0.jpg" /></li>
 </ul>
 
-<img src="https://github.com/sbogucki12/dwalesskaAPI/blob/main/readmeFiles/recaptcha0.jpg" />
-
-
-
-
-
-
 <p><b>Previously:</b></p> 
+<p>Started a .NET Core Web Api. <a href="https://github.com/sbogucki12/dwalesskaAPI">REPO</a> to provide functionality for <a href="https://github.com/sbogucki12/dwalesska">client app</a>. </p>
 
 <p>Added the FAQ Accordion to the desktop view at <a href="https://github.com/sbogucki12/dwalesska"> dwalesska repo </a>:</p>
 
