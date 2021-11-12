@@ -2,15 +2,12 @@
 
 <p>I'm Steve. My current activity:</p> 
 
-## Nov 10, 2021
+## Nov 11. 2021
 
-<p>Implementing SendGrid service in .NET 5 (via Azure). <a href="https://github.com/sbogucki12/dwalesskaAPI">REPO</a> </p>
+<p>From the <a href="https://github.com/sbogucki12/dwalesska"> dwalesska client React app </a>, using Fetch to POST to the SendGrid client in the <a href="https://github.com/sbogucki12/dwalesskaAPI">.NET 5 web API</a>:</p>
 
-<ul>
-<li><img src="https://github.com/sbogucki12/dwalesskaAPI/blob/main/readmeFiles/sendGridPostman0.jpg" /></li>
-<li><img src="https://github.com/sbogucki12/dwalesskaAPI/blob/main/readmeFiles/sendGrid0.jpg" /></li>
-<li><img src="https://github.com/sbogucki12/dwalesskaAPI/blob/main/readmeFiles/sendGridEmail0.jpg" /></li>
-</ul>
+<img src="https://github.com/sbogucki12/dwalesskaAPI/blob/main/readmeFiles/commentForm0GIF.gif" />
+
 
 <p><b>Previously:</b></p> 
 <p>Started a .NET Core Web Api. <a href="https://github.com/sbogucki12/dwalesskaAPI">REPO</a> to provide functionality for <a href="https://github.com/sbogucki12/dwalesska">client app</a>. </p>
