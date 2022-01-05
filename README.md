@@ -2,34 +2,23 @@
 
 <p>I'm Steve. My current activity:</p> 
 
-## Nov 11. 2021
+## Jan 4, 2022
+
+<p>I had been previously building <a href="http://dwalesska.azurewebsites.net/">a site for a client</a>.  I'm now rebuilding it via NextJs.  Repo <a href="https://github.com/sbogucki12/dwalesskanext">HERE</a>. </p>
+
+<p>I implemented the header (responsive for mobile), and the floating action button.</p>
+
+<img src="https://bogoodski.blob.core.windows.net/dwalesska/layout0GIF.gif" />
+ 
+  
+
+## Previously
 
 <p>From the <a href="https://github.com/sbogucki12/dwalesska"> dwalesska client React app </a>, using Fetch to POST to the SendGrid client in the <a href="https://github.com/sbogucki12/dwalesskaAPI">.NET 5 web API</a>:</p>
 
 <img src="https://github.com/sbogucki12/dwalesskaAPI/blob/main/readmeFiles/commentForm0GIF.gif" />
 
 
-<p><b>Previously:</b></p> 
-<p>Started a .NET Core Web Api. <a href="https://github.com/sbogucki12/dwalesskaAPI">REPO</a> to provide functionality for <a href="https://github.com/sbogucki12/dwalesska">client app</a>. </p>
-
-<p>Added the FAQ Accordion to the desktop view at <a href="https://github.com/sbogucki12/dwalesska"> dwalesska repo </a>:</p>
-
-<img src="https://raw.githubusercontent.com/sbogucki12/dwalesska/main/readmeFiles/aboutMe1GIF.gif" />
-
-<ul>
-  <li>Began something new over at Hack The Box :) </li>
-  <li>Beginning to tackle Blazor. Primary learning resource: <a href="https://www.youtube.com/channel/UC-ptWR16ITQyYOglXyQmpzw">Tim Corey Videos</a> on youtube</li>
-  <li><a href="https://djbogoodski.azurewebsites.net">DJBogoodski.com</a> is now a thing :)</li>
-  <ul>
-    <li>Added Cheat Code Radio volume 11:
-    <img src="https://raw.githubusercontent.com/sbogucki12/djbogoodski/main/readmeFiles/cheatCodeVol11.jpg" /></li>
-    <li>Added Cheat Code Radio volume 10.</li>
-    <li>Refined the custom routing.</li>
-    <li>Added archive component.</li>
-    <li>Successfully implemented: Azure Function triggered by HTTP request that outputs an email via SendGrid. Provides functionality to the contact form.</li>
-  </ul>
-<li> Practicing <a href="https://github.com/sbogucki12/AlgosAndDataStructures">data structure and algorithm fundamentals</a>.</li> 
-</ul>  
 
 ## Blog
 
