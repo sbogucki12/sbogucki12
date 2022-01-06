@@ -3,7 +3,7 @@
 <p>I'm Steve. My current activity:</p> 
 
 ## Jan 6, 2022
-<p>Implementing the mobile menu for a new <a href="https://github.com/sbogucki12/dwalesskanext">client site/a> via Next.js</p>
+<p>Implementing the mobile menu for a new <a href="https://github.com/sbogucki12/dwalesskanext">client site</a> via Next.js</p>
  <p><img src="http://g.recordit.co/M4H7cWaHsL.gif" /></p>
 
 ## Jan 5, 2022
