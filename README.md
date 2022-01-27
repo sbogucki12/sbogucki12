@@ -2,23 +2,8 @@
 
 <p>I'm Steve. My current activity:</p> 
 
-## Jan 6, 2022
-<p>Implementing the mobile menu for a new <a href="https://github.com/sbogucki12/dwalesskanext">client site</a> via Next.js</p>
- <p><img src="http://g.recordit.co/M4H7cWaHsL.gif" /></p>
- <p>Completed HackerRank Divisble Sum Pairs challenge.</p>
-<p><img src="https://pbs.twimg.com/media/FId0h2FUUAAyYWQ?format=jpg&name=small"/></p>
+## Jan 26, 2022
 
-
-## Previously
-
-<p>I had been previously building <a href="http://dwalesska.azurewebsites.net/">a site for a client</a>.  I'm now rebuilding it via NextJs.  Repo <a href="https://github.com/sbogucki12/dwalesskanext">HERE</a>. </p>
-
-<p>Completed HackerRank SubArray "Birthday" challenge.</p>
-<p><img src="https://pbs.twimg.com/media/FIW96T4VEAEne8c?format=jpg&name=small" /></p>
-
-
-
-## Blog
-
-<a href="https://bogoodski.medium.com/setting-up-an-azure-function-sendgrid-http-trigger-cfd9c5791201" target="_blank">The trials and triumphs of implementing my first Azure Function.</a>
-
+<p>Trying something new.</p>
+<p>At work, I'm a technical advisor for the executive staff, basically serving as a Solutions Architect. As such, I review potential platforms for implementation.  Recently, I've been getting familiar with <i>Palantir Foundry</i>.  I'm in awe of what the data team can do on the platform.  It's inspired me to learn more about the management of data.  I'm personally interested in the data engineering aspect of designing and implementing data pipelines that the data scientists and analysts can use for their research and visualizations.</p>
+<p>But, of course, I have to start somewhere.  I've been watching this data scientist, Rob Mulla, on twitch. He is a grandmaster on Kaggle.  And, <i>more inspiration</i>, I've joined the Kaggle platform myself.  I am currently working through the Titanic challenge.  And have estabished a repository here to save and share my work.</p>
