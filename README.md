@@ -2,11 +2,8 @@
 
 <p>I'm Steve. My current activity:</p> 
 
-## Mar 8, 2022
+## Mar 12, 2022
 
-<p>
-  <img src="https://bogoodski.blob.core.windows.net/misc/march2022projecttweet.jpg" alt="npx create-react-app my-app --template typescript"/>
-</p>
-<p>
-  Except, instead of <i>my-app</i>, we called it <b>march2022-app</b>. 
-</p>
+<img src="https://bogoodski.blob.core.windows.net/bogoodski2022/bogoodski2022readmeUpdate.jpg" />
+
+
