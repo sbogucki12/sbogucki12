@@ -2,11 +2,16 @@
 
 <p>I'm Steve. My current activity:</p> 
 
-## Mar 12, 2022
+## March 13, 2022 
 
-<img src="https://bogoodski.blob.core.windows.net/bogoodski2022/bogoodski2022readmeUpdate.jpg" />
+<ul>
+	<li>Using C# to programmatically add a css class to control an animation</li>
+</ul>
 
-<img src="https://bogoodski.blob.core.windows.net/bogoodski2022/bogoodski2022firstlanding.jpg" />
+<p>Funny how trivial this is. Razor syntax isn't familiar to me in the way jsx is. Just takes practice. </p>
+
+
+<img src="http://g.recordit.co/4stfEzL3mC.gif" />
 
 <p><a href="https://github.com/sbogucki12/march2022-app">Repo</a></p>
 
