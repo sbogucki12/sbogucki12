@@ -2,16 +2,16 @@
 
 <p>I'm Steve. My current activity:</p> 
 
-## March 13, 2022 
+## March 26, 2022 
 
 <ul>
-	<li>Using C# to programmatically add a css class to control an animation</li>
+	<li>Practicing with tailwind css and typescript via Nextjs</li>. <p><a href="https://github.com/sbogucki12/bogoodski-nextjs-tailwind">Repo</a></p>
 </ul>
 
-<p>Funny how trivial this is. Razor syntax isn't familiar to me in the way jsx is. Just takes practice. </p>
 
 
-<img src="http://g.recordit.co/4stfEzL3mC.gif" />
 
-<p><a href="https://github.com/sbogucki12/march2022-app">Repo</a></p>
+<img src="https://bogoodski.blob.core.windows.net/bogoodski2022/bogoodski-tailwind-nextjs-day0.png">
+
+
 
