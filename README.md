@@ -5,7 +5,7 @@
 ## March 26, 2022 
 
 <ul>
-	<li>Practicing with tailwind css and typescript via Nextjs</li>. <a href="https://github.com/sbogucki12/bogoodski-nextjs-tailwind">Repo</a>
+	<li>Practicing with tailwind css and typescript via Nextjs. <a href="https://github.com/sbogucki12/bogoodski-nextjs-tailwind">Repo</a></li>
 </ul>
 
 
