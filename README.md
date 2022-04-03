@@ -2,16 +2,18 @@
 
 <p>I'm Steve. My current activity:</p> 
 
-## March 28, 2022 
 
-<ul>
-	<li>Practicing with tailwind css and typescript via Nextjs. <a href="https://github.com/sbogucki12/bogoodski-nextjs-tailwind">Repo</a></li>
-</ul>
+<p><b>April 2, 2022</b></p>
+
+<ul><li>Playing around with animations via css in my <a href="https://github.com/sbogucki12/bogoodski-nextjs-tailwind">tailwind prokect</a></li></ul>
+
+<img src="https://bogoodski.blob.core.windows.net/bogoodski2022/animation-logo-gif.gif">
 
 
 
 
-<img src="https://bogoodski.blob.core.windows.net/bogoodski2022/bogoodski-tailwind-nextjs-day1.png">
+
+
 
 
 
