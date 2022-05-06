@@ -4,21 +4,26 @@
 
 <h3>Studying...</h3>
 
-<ol>
-  
-  <li><p>Web development</p>
+<ol>  
+  <li>
+    <p>Web development</p>
     <p><a href="https://lnkd.in/dn-_KavQ">Next.js By Example</a></p>
-</li>
-  <li><p>Music production</p>
+  </li>
+  <li>
+    <p>Music production</p>
     <p><a href="https://lnkd.in/dF2JV5P4">FL Studio 101 by Music-Prod</a></p>
-</li>
-  <li><p>Apache Spark</p>
+  </li>
+  <li>
+    <p>Apache Spark</p>
     <a href="https://lnkd.in/dUvbs5dT">Databricks - How to Build a Cloud Data Platform</a>
-
-</li>
-  <li><p>Continuing to work through the <a href="https://www.interviewcake.com/">Interview Cake</a> just because I find it a legitiimately enjoyable learning resource.</p></li>
+  </li>
+  <li>
+    <p>Continuing to work through the <a href="https://www.interviewcake.com/">Interview Cake</a> just because I find it a legitiimately enjoyable learning resource.       </p>
+  </li>
 </ol>
 
+<br/>
+<br/>
 
 <p>The best learning is achieved by applying knowledge - so, building projects. But, in this case, I needed some hand-holding.</p>
 
