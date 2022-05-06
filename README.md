@@ -16,7 +16,7 @@
     <a href="https://lnkd.in/dUvbs5dT">Databricks - How to Build a Cloud Data Platform</a>
 
 </li>
-  <li>Continuing to work through the <a href="https://www.interviewcake.com/">Interview Cake</a> just because I find it a legitiimately enjoyable learning resource.</li>
+  <li><p>Continuing to work through the <a href="https://www.interviewcake.com/">Interview Cake</a> just because I find it a legitiimately enjoyable learning resource.</p></li>
 </ol>
 
 
