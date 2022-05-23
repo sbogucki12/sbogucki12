@@ -18,7 +18,7 @@
   </li>
 </ol>
 
-<p>I have this thing about human optimization.  In the same way that I maintain physical fitness [by running] and weight lifting I can maintain mental fitness via exercising the brain.  By actually working out the math problems on paper, while following the 3Blue1Brown math series, and solving logically challenging Interview Cake questions.  Haven’t done it yet, but might throw in some LSAT logic games to occasionally mix it up. Mental crossfit!   </p>
+I have this thing about human optimization.  In the same way that I maintain physical fitness [by running] and weight lifting I can maintain mental fitness via exercising the brain.  By actually working out the math problems on paper, while following the 3Blue1Brown math series, and solving logically challenging Interview Cake questions.  Haven’t done it yet, but might throw in some LSAT logic games to occasionally mix it up. Mental crossfit!   
 
 [by running]: https://www.dailyrun.net/
   
