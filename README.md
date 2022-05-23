@@ -6,28 +6,17 @@
 
 <ol>  
   <li>
-    <p>Web development</p>
+    <p>Brushing the dust off my React skills.</p>
     <p><a href="https://lnkd.in/dn-_KavQ">Next.js By Example</a></p>
   </li>
   <li>
-    <p>Music production</p>
-    <p><a href="https://lnkd.in/dF2JV5P4">FL Studio 101 by Music-Prod</a></p>
+    <p>Trigonometry</p>
+    <a href="https://www.youtube.com/playlist?list=PLZHQObOWTQDP5CVelJJ1bNDouqrAhVPev">3Blue1Brown - "Lockdown Math" playlist</a>
   </li>
   <li>
-    <p>Apache Spark</p>
-    <a href="https://lnkd.in/dUvbs5dT">Databricks - How to Build a Cloud Data Platform</a>
-  </li>
-  <li>
-    <p>Continuing to work through the <a href="https://www.interviewcake.com/">Interview Cake</a> just because I find it a legitiimately enjoyable learning resource.       </p>
+    <p>Continuing to work through the <a href="https://www.interviewcake.com/">Interview Cake</a> course.</p>
   </li>
 </ol>
 
-<br/>
-<br/>
-
-<p>The best learning is achieved by applying knowledge - so, building projects. But, in this case, I needed some hand-holding.</p>
-
-<p>For React/Next, returning to a tutorial is figuratively a step backward in progress for me. But I'm rusty and want to unlearn some bad habits that I've incurred and, hopefully, replace them with proper industry standard techniques - that hopefully this course will provide.</p>
-
-<p>Though I've used FL Studio to export my DJ mixes for years, I've never used the tool, as powerful as it is, for anything else. The step into music production is a foreign one for me, so the guidance of a teacher is going to help navigate the learning curve.</p>
+<p>I have this thing about human optimization.  In the same way that I maintain physical fitness [by running](https://www.dailyrun.net/) and weight lifting I can maintain mental fitness via exercising the brain.  By actually working out the math problems on paper, while following the 3Blue1Brown math series, and solving logically challenging Interview Cake questions.  Haven’t done it yet, but might throw in some LSAT logic games to occasionally mix it up. Mental crossfit!   </p>
   
