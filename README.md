@@ -19,6 +19,8 @@ The data in my runlog, as seen via the UI, isn't what it appears to be...
 
 In laziness, when initially developing my runlog two years ago, I wasn't precise with my data types.  For example, to avoid unnecessary mental exercise at the time, I occasionally used strings instead of numerical or date time data.  
 
+![runlogUI-original.jpg](https://raw.githubusercontent.com/sbogucki12/workoutdata/main/images/data-problem-pace.jpg "data-problem-pace.jpg")
+
 First things first, I want to convert those data into their appropriate types to allow me to perform some data analysis. 
 
 Later, I'll build a new database aligned with those data types and use the transformed data to seed the database.  
