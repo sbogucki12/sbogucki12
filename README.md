@@ -21,11 +21,21 @@ In laziness, when initially developing my runlog two years ago, I wasn't precise
 
 ![runlogUI-original.jpg](https://raw.githubusercontent.com/sbogucki12/workoutdata/main/images/data-problem-pace.jpg "data-problem-pace.jpg")
 
-First things first, I want to convert those data into their appropriate types to allow me to perform some data analysis. 
+* First things first, I want to convert those data into their appropriate types to allow me to perform some data analysis. 
 
-Later, I'll build a new database aligned with those data types and use the transformed data to seed the database.  
+  * Complete: 
 
-Finally, I'll build a UI. 
+* Transformed data into usable data types
+
+![datatypes_transformed](https://raw.githubusercontent.com/sbogucki12/workoutdata/main/images/datatypes_transformed.jpg "datatypes_transformed.jpg")
+
+* Created a local database and table via SQL Server Management Studio 
+
+![sql_table](https://raw.githubusercontent.com/sbogucki12/workoutdata/main/images/sql_table.jpg "sql_table.jpg")
+
+* Later, I'll build a new database aligned with those data types and use the transformed data to seed the database.  
+
+* Finally, I'll build a UI. 
 
 ### Background
 
