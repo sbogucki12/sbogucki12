@@ -33,5 +33,5 @@ When I originally developed my runlog, in my daily professional life, I was work
 
 My runlog is dated, so it needs to be revised.  I want to take the opportunity in rebuilding it in a way that's educational for me, especially in support of my data science learning, and job responsibilities around enterprise data management at work.  
 
-
+[Cont...](https://github.com/sbogucki12/workoutdata)
   
