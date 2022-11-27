@@ -25,11 +25,11 @@ In laziness, when initially developing my runlog two years ago, I wasn't precise
 
   * Complete: 
 
-* Transformed data into usable data types
+*Transformed data into usable data types*
 
 ![datatypes_transformed](https://raw.githubusercontent.com/sbogucki12/workoutdata/main/images/datatypes_transformed.jpg "datatypes_transformed.jpg")
 
-* Created a local database and table via SQL Server Management Studio 
+*Created a local database and table via SQL Server Management Studio* 
 
 ![sql_table](https://raw.githubusercontent.com/sbogucki12/workoutdata/main/images/sql_table.jpg "sql_table.jpg")
 
