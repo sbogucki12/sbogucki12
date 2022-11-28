@@ -42,7 +42,7 @@ In laziness, when initially developing my runlog two years ago, I wasn't precise
 ![seeded_database](https://raw.githubusercontent.com/sbogucki12/workoutdata/main/images/seeded_database.jpg "seeded_database")
 
 * Next, I'll migrate the local database to Azure. 
-*
+
 * Finally, I'll build a UI. 
 
 ### Background
