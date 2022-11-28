@@ -35,6 +35,14 @@ In laziness, when initially developing my runlog two years ago, I wasn't precise
 
 * Later, I'll build a new database aligned with those data types and use the transformed data to seed the database.  
 
+**Update:** *Nov 27, 2022:* 
+
+  * Local database created and seeded with transformed data.   
+
+![seeded_database](https://raw.githubusercontent.com/sbogucki12/workoutdata/main/images/seeded_database.jpg "seeded_database")
+
+* Next, I'll migrate the local database to Azure. 
+*
 * Finally, I'll build a UI. 
 
 ### Background
