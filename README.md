@@ -45,6 +45,8 @@ In laziness, when initially developing my runlog two years ago, I wasn't precise
 
 **Update:** *Nov. 29, 2022:*
 
+  * Migrated database to Azure SQL. 
+
 ![azure_sql_deploy](https://raw.githubusercontent.com/sbogucki12/workoutdata/main/images/azure_sql_deploy.jpg "Migrated to Azure SQL")
 
 * Finally, I'll build a UI. 
