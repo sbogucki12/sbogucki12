@@ -33,6 +33,15 @@ In laziness, when initially developing my runlog two years ago, I wasn't precise
 
 ### Updates
 
+### Decenber 8, 2022
+
+* Data passing from browser (Swagger) via API POST to database on Azure (via ADO.NET)
+  
+![dbBeforePost.jpg](https://raw.githubusercontent.com/sbogucki12/workoutdata/main/images/dbBeforePost.jpg "dbBeforePost.jpg")
+![postRequestRunBody.jpg](https://raw.githubusercontent.com/sbogucki12/workoutdata/main/images/postRequestRunBody.jpg "postRequestRunBody.jpg")
+![postIntoDB.jpg](https://raw.githubusercontent.com/sbogucki12/workoutdata/main/images/postIntoDB.jpg "postIntoDB.jpg")
+
+
 ### December 4, 2022
 
 * Wired Azure db to .NET Web API
