@@ -4,6 +4,11 @@
 
 # [Run Log](https://github.com/sbogucki12/workoutdata)
 
+## December 11, 2002: 
+
+* Sidetracked. What day of the week did I run the most often? 
+![daily-frequency](https://raw.githubusercontent.com/sbogucki12/workoutdata/main/images/daily-frequency.jpg "daily-frequency.jpg")
+
 ## workoutdata
 
 ### Objective
