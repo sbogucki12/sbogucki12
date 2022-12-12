@@ -10,6 +10,7 @@
   * Which day of the week do I typically run the farthest? 
   * How have my distances changed over time?  
 ![runDistances](https://raw.githubusercontent.com/sbogucki12/workoutdata/main/images/runDistances.jpg "runDistances.jpg")
+**[code](https://github.com/sbogucki12/workoutdata/blob/main/.ipynb_checkpoints/run-analysis-checkpoint.ipynb)**
 
 ## December 11, 2002: 
 
