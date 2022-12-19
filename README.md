@@ -4,6 +4,11 @@
 
 # [Run Log](https://github.com/sbogucki12/workoutdata)
 
+## December 19, 2022: 
+
+* The UI now fetches data from the cloud database via (development) Web API 
+![ui-fetch-gif.gif](https://raw.githubusercontent.com/sbogucki12/workoutdata/main/images/ui-fetch-gif.gif "ui-fetch-gif.gif")
+
 ## December 12, 2022: 
 
 * Sidetracked. 
@@ -40,12 +45,6 @@ In laziness, when initially developing my runlog two years ago, I wasn't precise
 
 5. Finally, I'll build a UI. 
 
-### Updates
-
-## December 19, 2022: 
-
-* The UI now fetches data from the cloud database via (development) Web API 
-![ui-fetch-gif.gif](https://raw.githubusercontent.com/sbogucki12/workoutdata/main/images/ui-fetch-gif.gif "ui-fetch-gif.gif")
 
 [Cont...](https://github.com/sbogucki12/workoutdata)
   
