@@ -12,10 +12,6 @@
 ![runDistances](https://raw.githubusercontent.com/sbogucki12/workoutdata/main/images/runDistances.jpg "runDistances.jpg")
 *[notebook](https://github.com/sbogucki12/workoutdata/blob/main/.ipynb_checkpoints/run-analysis-checkpoint.ipynb)*
 
-## December 11, 2002: 
-
-* Sidetracked. What day of the week did I run the most often? 
-![daily-frequency](https://raw.githubusercontent.com/sbogucki12/workoutdata/main/images/daily-frequency.jpg "daily-frequency.jpg")
 
 ## workoutdata
 
@@ -46,66 +42,10 @@ In laziness, when initially developing my runlog two years ago, I wasn't precise
 
 ### Updates
 
-### Decenber 8, 2022
+## December 19, 2022: 
 
-* Data passing from browser (Swagger) via API POST to database on Azure (via ADO.NET)
-  
-![dbBeforePost.jpg](https://raw.githubusercontent.com/sbogucki12/workoutdata/main/images/dbBeforePost.jpg "dbBeforePost.jpg")
-![postRequestRunBody.jpg](https://raw.githubusercontent.com/sbogucki12/workoutdata/main/images/postRequestRunBody.jpg "postRequestRunBody.jpg")
-![postIntoDB.jpg](https://raw.githubusercontent.com/sbogucki12/workoutdata/main/images/postIntoDB.jpg "postIntoDB.jpg")
-
-
-### December 4, 2022
-
-* Wired Azure db to .NET Web API
-
-![api_get_runs](https://raw.githubusercontent.com/sbogucki12/workoutdata/main/images/api_get_runs.jpg "api_get_runs.jpg")
-
-
-### November 29, 2022
-
-* Migrated to Azure SQL. 
-
-![azure_sql_deploy](https://raw.githubusercontent.com/sbogucki12/workoutdata/main/images/azure_sql_deploy.jpg "Migrated to Azure SQL")
-
-* Working on migrating local SQL Server database to Azure
-
-  * Downloaded Azure Data Migration Assistant to assess the local database
-  * Spun up a database on Azure
-  * Experiencing a ton of difficulty with my Azure profile, making connecting to resources truly frustrating. Toubleshooting...
-
-* Successfully migrated to Azure SQL. 
-
-### November 27, 2022
-
-* Local database created and seeded with transformed data.   
-
-![seeded_database](https://raw.githubusercontent.com/sbogucki12/workoutdata/main/images/seeded_database.jpg "seeded_database")
-
-
-* Transformed data into usable data types
-
-![datatypes_transformed](https://raw.githubusercontent.com/sbogucki12/workoutdata/main/images/datatypes_transformed.jpg "datatypes_transformed.jpg")
-
-* Created a local database and table via SQL Server Management Studio 
-
-![sql_table](https://raw.githubusercontent.com/sbogucki12/workoutdata/main/images/sql_table.jpg "sql_table.jpg")
-
-* Created and seeded a local database. 
-
-### November 26, 2022
-
-Exploring the difference in pandas datetime and timedelta data types.  
-
-When I plot a series of timedeltas, I don't get the desired Y-axis label. 
-
-When I plot a series of datetimes, the appropriate Y-axis label is auto-generated: 
-
-![datetime_vs_timedelta](https://raw.githubusercontent.com/sbogucki12/workoutdata/main/images/datetime_vs_timedelta.jpg "datetime_vs_timedelta.jpg")
-
-The pace for my most recent 30 runs.  I'm currently not running due to injury.  
-
-![paces_last_30_days.jpg](https://raw.githubusercontent.com/sbogucki12/workoutdata/main/images/paces_last_30_days.jpg "paces_last_30_days.jpg")
+* The UI now fetches data from the cloud database via (development) Web API 
+![ui-fetch-gif.gif](https://raw.githubusercontent.com/sbogucki12/workoutdata/main/images/ui-fetch-gif.gif "ui-fetch-gif.gif")
 
 [Cont...](https://github.com/sbogucki12/workoutdata)
   
