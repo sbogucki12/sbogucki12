@@ -4,6 +4,11 @@
 
 # [Run Log](https://github.com/sbogucki12/workoutdata)
 
+# December 26, 2022: 
+
+* Playing around with style: 
+![addrun-style-12262022.jpg](https://raw.githubusercontent.com/sbogucki12/workoutdata/main/images/addrun-style-12262022.jpg "addrun-style-12262022.jpg")
+
 ## December 19, 2022: 
 
 * The UI now fetches data from the cloud database via (development) Web API 
