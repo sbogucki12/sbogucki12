@@ -4,10 +4,11 @@
 
 # [Run Log](https://github.com/sbogucki12/workoutdata)
 
-# December 26, 2022: 
+# December 27, 2022: 
 
-* Playing around with style: 
-![addrun-style-12262022.jpg](https://raw.githubusercontent.com/sbogucki12/workoutdata/main/images/addrun-style-12262022.jpg "addrun-style-12262022.jpg")
+* Still toying around with CSS. Need to get back to adding functionality.  (Tommorow) 
+![main-style-gif.gif](https://raw.githubusercontent.com/sbogucki12/workoutdata/main/images/main-style-gif.gif "main-style-gif.gif")
+
 
 ## December 19, 2022: 
 
