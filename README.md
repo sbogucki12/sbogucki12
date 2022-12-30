@@ -4,6 +4,11 @@
 
 # [Run Log](https://github.com/sbogucki12/workoutdata)
 
+# December 29, 2022
+
+* Form for adding runs now calculates pace from time and distance: 
+![convert-pace-gif.gif](https://raw.githubusercontent.com/sbogucki12/workoutdata/main/images/convert-pace-gif.gif "convert-pace-gif.gif")
+
 # December 27, 2022: 
 
 * Still toying around with CSS. Need to get back to adding functionality.  (Tommorow) 
