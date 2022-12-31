@@ -4,6 +4,8 @@
 
 # [Run Log](https://github.com/sbogucki12/workoutdata)
 
+I'm thinking that once I get this working initially, I might rewrite it in TypeScript.  I mean, it's going to need testing anyway, so I might as well practice TS while finishing it up.  
+
 # December 29, 2022
 
 * Form for adding runs now calculates pace from time and distance: 
