@@ -2,6 +2,10 @@
 
 <p>I'm Steve. My current activity:</p> 
 
+I never learned how to use .NET without relying on Entity Framework or other ORMs to intreact with databases.  And it's been so long since I've written JavaScript without react, it's like I don't even remember vanilla JavaScript. 
+
+<b>So...</b>  I'm rebuilding my runlog, purposely trying to stick with ODATA and vanilla JavaScript.  For learning purposes.
+
 # [Run Log](https://github.com/sbogucki12/workoutdata)
 
 I'm thinking that once I get this working initially, I might rewrite it in TypeScript.  I mean, it's going to need testing anyway, so I might as well practice TS while finishing it up.  
