@@ -10,7 +10,7 @@ Currently, I'm working through the eCornell Data Science certificate course.  I'
 
 I'm about halfway through the course but just began taking notes in Notebooks with the most recent lesson I completed. 
 
-[They're here.](https://github.com/sbogucki12/datascience){:target="_blank"}
+[They're here.](https://github.com/sbogucki12/datascience)
 
  
 - Please keep in mind that they're:
