@@ -1,67 +1,23 @@
 ### Hi there 👋
 
-<p>I'm Steve. My current activity:</p> 
+I'm Steve. 
 
-I never learned how to use .NET without relying on Entity Framework or other ORMs to intreact with databases.  And it's been so long since I've written JavaScript without react, it's like I don't even remember vanilla JavaScript. 
+## May 25, 2023
 
-<b>So...</b>  I'm rebuilding my runlog, purposely trying to stick with ODATA and vanilla JavaScript.  For learning purposes.
+Much has changed :) 
 
-# [Run Log](https://github.com/sbogucki12/workoutdata)
+Currently, I'm working through the eCornell Data Science certificate course.  I'm fortunate to have the opportunity to complete the course in a pilot citizen Data Scientist program that my organization is trialing. 🙌 I previously completed the eCornell Python for Data Science certificate course.  
 
-I'm thinking that once I get this working initially, I might rewrite it in TypeScript.  I mean, it's going to need testing anyway, so I might as well practice TS while finishing it up.  
+I'm about halfway through the course but just starting taking notes in a Notebook with the most recent lesson I completed.  
+- [They're here.](https://github.com/sbogucki12/datascience).  Please keep in mind, they're:
+ - Incomplete.  
+ - Working notes. 
+ - Probably full of inaccuracies 
+ - Only potientially going to be cleaned up later, after completion of the course. 
+ - Hopefully absent any proprietary course material.  🤞
 
-# December 29, 2022
-
-* Form for adding runs now calculates pace from time and distance: 
-![convert-pace-gif.gif](https://raw.githubusercontent.com/sbogucki12/workoutdata/main/images/convert-pace-gif.gif "convert-pace-gif.gif")
-
-# December 27, 2022: 
-
-* Still toying around with CSS. Need to get back to adding functionality.  (Tommorow) 
-![main-style-gif.gif](https://raw.githubusercontent.com/sbogucki12/workoutdata/main/images/main-style-gif.gif "main-style-gif.gif")
+Professionally, I've changed positions and now manage a division within our Chief Data Office, overseeing our Analytics Enablement and Tools & Technology branches.  It's a really exciting opportunity, certianly one in which I intend to learn much!
 
 
-## December 19, 2022: 
-
-* The UI now fetches data from the cloud database via (development) Web API 
-![ui-fetch-gif.gif](https://raw.githubusercontent.com/sbogucki12/workoutdata/main/images/ui-fetch-gif.gif "ui-fetch-gif.gif")
-
-## December 12, 2022: 
-
-* Sidetracked. 
-  * Which day of the week do I typically run the farthest? 
-  * How have my distances changed over time?  
-![runDistances](https://raw.githubusercontent.com/sbogucki12/workoutdata/main/images/runDistances.jpg "runDistances.jpg")
-*[notebook](https://github.com/sbogucki12/workoutdata/blob/main/.ipynb_checkpoints/run-analysis-checkpoint.ipynb)*
 
 
-## workoutdata
-
-### Objective
-
-I want to rebuild [www.dailyrun.net](https://www.dailyrun.net/). 
-
-#### Problem
-
-The data in my runlog, as seen via the UI, isn't what it appears to be...
-
-![runlogUI-original.jpg](https://raw.githubusercontent.com/sbogucki12/workoutdata/main/images/runlogUI-original.jpg "runlogUI-original.jpg")
-![runlogUI-original-detail.jpg](https://raw.githubusercontent.com/sbogucki12/workoutdata/main/images/runlogUI-original-detail.jpg "runlogUI-original-detail.jpg")
-
-In laziness, when initially developing my runlog two years ago, I wasn't precise with my data types.  For example, to avoid unnecessary mental exercise at the time, I occasionally used strings instead of numerical or date time data.  
-
-![data-problem-pace.jpg](https://raw.githubusercontent.com/sbogucki12/workoutdata/main/images/data-problem-pace.jpg "data-problem-pace.jpg")
-
-1. First things first, I want to convert those data into their appropriate types to allow me to perform some data analysis. (DONE)
-
-2. Later, I'll build a new database aligned with those data types and use the transformed data to seed the database. (DONE) 
-
-3. Next, I'll migrate the local database to Azure. (DONE) 
-
-4. After that, I'll build out a backend - just some controllers, basically, via .NET probably. (DONE)
-
-5. Finally, I'll build a UI. 
-
-
-[Cont...](https://github.com/sbogucki12/workoutdata)
-  
