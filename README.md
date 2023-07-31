@@ -19,13 +19,12 @@ I'm about halfway through the course but just began taking notes in Notebooks wi
 Professionally, I've changed positions and now manage a division within our Chief Data Office, overseeing our Analytics Enablement and Tools & Technology branches.  It's a really exciting opportunity, certianly one in which I intend to learn much!
 
 
-## June 15, 2023
+# July 31
 
-Completed the "Debugging" lesson, learning how to calculate error and reduce noise, variance, and bias via techniques like bagging (Random Forests) and boosting.  
+Completed lesson.  Learned how to code our own Support Vector Machines, how to match regularizers and loss functions, and how to add dimensionality to vectors utilizing the kernel trick.  
 
-This lesson was much more managable than a previous lesson that required us to code regression trees! 
-
-![Debugging Image](https://raw.githubusercontent.com/sbogucki12/datascience/main/debugging.jpg)
+![Image](https://github.com/sbogucki12/datascience/blob/main/kernel%201.png)
+![Image](https://github.com/sbogucki12/datascience/blob/main/kernel%202.png)
 
 
  
