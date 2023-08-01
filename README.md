@@ -27,6 +27,9 @@ Completed lesson.  Learned how to code our own Support Vector Machines, how to m
 ![Image](https://github.com/sbogucki12/datascience/blob/main/kernel%202.png)
 
 
+Also, I've begun developing a portfolio website.  I've forgotten mostly how to webdev, so I am taking full advantage of ChatGPT.  Follow along as I use AI to build my website: 
+[BOGOODSKI-AI Repo](https://github.com/sbogucki12/bogoodski-ai)
+
  
 
 
