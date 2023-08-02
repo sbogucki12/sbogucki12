@@ -18,6 +18,20 @@ I'm about halfway through the course but just began taking notes in Notebooks wi
 
 Professionally, I've changed positions and now manage a division within our Chief Data Office, overseeing our Analytics Enablement and Tools & Technology branches.  It's a really exciting opportunity, certianly one in which I intend to learn much!
 
+# Aug 1
+
+In just a few hours over two evenings, I was able to use ChatGPT and very little code to spin up a new site.  
+
+Here is the repo: 
+[BOGOODSKI ChatGPT Repo](https://github.com/sbogucki12/sbogucki12.github.io)
+
+Here is the site (github pages): 
+[BOGOODSKI ChatGPT](https://sbogucki12.github.io/)
+
+Here is the ChatGPT discussion, prompts that "developed" this site: 
+[ChatGPT Discussion](https://chat.openai.com/share/9a9edc00-4256-4717-8ed7-a0c69faf8828)
+
+![Modal and Carousel](media/readme/modal-gif.gif)
 
 # July 31
 
@@ -27,8 +41,6 @@ Completed lesson.  Learned how to code our own Support Vector Machines, how to m
 ![Image](https://github.com/sbogucki12/datascience/blob/main/kernel%202.png)
 
 
-Also, I've begun developing a portfolio website.  I've forgotten mostly how to webdev, so I am taking full advantage of ChatGPT.  Follow along as I use AI to build my website: 
-[BOGOODSKI-AI Repo](https://github.com/sbogucki12/bogoodski-ai)
 
  
 
