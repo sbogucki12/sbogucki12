@@ -2,7 +2,7 @@
 
 I'm Steve. 
 
-Currently, I'm working through the eCornell Data Science certificate course.  I'm fortunate to have the opportunity to complete the course in a pilot citizen Data Scientist program that my organization is trialing. 🙌 I previously completed the eCornell Python for Data Science certificate course.  
+Currently, I'm working through the eCornell Machine Learning certificate course.  I'm fortunate to have the opportunity to complete the course in a pilot citizen Data Scientist program that my organization is trialing. 🙌 I previously completed the eCornell Python for Data Science certificate course.  
 
 I'm about halfway through the course but just began taking notes in Notebooks with the most recent lesson I completed. 
 
