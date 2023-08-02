@@ -31,7 +31,7 @@ Here is the site (github pages):
 Here is the ChatGPT discussion, prompts that "developed" this site: 
 [ChatGPT Discussion](https://chat.openai.com/share/9a9edc00-4256-4717-8ed7-a0c69faf8828)
 
-![Modal and Carousel](media/readme/modal-gif.gif)
+![Modal and Carousel](https://raw.githubusercontent.com/sbogucki12/sbogucki12.github.io/main/media/readme/dynamic-layout.gif)
 
 # July 31
 
