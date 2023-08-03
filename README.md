@@ -18,7 +18,7 @@ I'm about halfway through the course but just began taking notes in Notebooks wi
 
 Professionally, I've changed positions and now manage a division within our Chief Data Office, overseeing our Analytics Enablement and Tools & Technology branches.  It's a really exciting opportunity, certianly one in which I intend to learn much!
 
-#Aug 3: 
+# Aug 3: 
 
 Added a video to the site that I am building with ChatGPT. 
 ![Image](https://github.com/sbogucki12/sbogucki12.github.io/blob/main/media/readme/bogoodski-intro-vid-thumb.png)
