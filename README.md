@@ -18,6 +18,12 @@ I'm about halfway through the course but just began taking notes in Notebooks wi
 
 Professionally, I've changed positions and now manage a division within our Chief Data Office, overseeing our Analytics Enablement and Tools & Technology branches.  It's a really exciting opportunity, certianly one in which I intend to learn much!
 
+# Aug 2
+
+Used ChatGPT to write the code for a resume functionality that I added to the portfolio I am building. [BOGOODSKI ChatGPT](https://sbogucki12.github.io/)  
+I am using ChatGPT to the greatest extent possible to assist the coding process.  
+Here is today's conversation: [ChatGPT: Build me a website](https://chat.openai.com/share/9a9edc00-4256-4717-8ed7-a0c69faf8828)
+
 # Aug 1
 
 In just a few hours over two evenings, I was able to use ChatGPT and very little code to spin up a new site.  
