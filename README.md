@@ -18,11 +18,16 @@ I'm about halfway through the course but just began taking notes in Notebooks wi
 
 Professionally, I've changed positions and now manage a division within our Chief Data Office, overseeing our Analytics Enablement and Tools & Technology branches.  It's a really exciting opportunity, certianly one in which I intend to learn much!
 
+#Aug 3: 
+
+Added a video to the site that I am building with ChatGPT. 
+![Image](https://github.com/sbogucki12/sbogucki12.github.io/blob/main/media/readme/bogoodski-intro-vid-thumb.png)
+
 # Aug 2
 
 Used ChatGPT to write the code for a resume functionality that I added to the portfolio I am building. [BOGOODSKI ChatGPT](https://sbogucki12.github.io/)  
 I am using ChatGPT to the greatest extent possible to assist the coding process.  
-Here is today's conversation: [ChatGPT: Build me a website](https://chat.openai.com/share/9a9edc00-4256-4717-8ed7-a0c69faf8828)
+Here is today's conversation: [ChatGPT: Build me a website](https://chat.openai.com/share/c6599edc-b2e6-4c26-a9fd-78e6c78d456c)
 
 # Aug 1
 
@@ -35,7 +40,7 @@ Here is the site (github pages):
 [BOGOODSKI ChatGPT](https://sbogucki12.github.io/)
 
 Here is the ChatGPT discussion, prompts that "developed" this site: 
-[ChatGPT Discussion](https://chat.openai.com/share/9a9edc00-4256-4717-8ed7-a0c69faf8828)
+[ChatGPT: Build me a website](https://chat.openai.com/share/c6599edc-b2e6-4c26-a9fd-78e6c78d456c)
 
 ![Modal and Carousel](https://github.com/sbogucki12/sbogucki12.github.io/blob/main/media/readme/modal-gif.gif)
 
