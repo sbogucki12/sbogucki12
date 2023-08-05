@@ -23,7 +23,7 @@ Professionally, I've changed positions and now manage a division within our Chie
 Today, we implemented this: 
 
 
-![Interview Images Prompt](media/readme/interview-images-prompt.jpg)
+![Interview Images Prompt](https://github.com/sbogucki12/sbogucki12.github.io/blob/main/media/readme/interview-images-prompt.jpg)
 # Aug 3: 
 
 Added a video to the site that I am building with ChatGPT. 
