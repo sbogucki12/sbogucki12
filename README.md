@@ -18,6 +18,10 @@ I'm about halfway through the course but just began taking notes in Notebooks wi
 
 Professionally, I've changed positions and now manage a division within our Chief Data Office, overseeing our Analytics Enablement and Tools & Technology branches.  It's a really exciting opportunity, certianly one in which I intend to learn much!
 
+# Aug 16:
+
+Just added my Maui story.  I really put my heart into telling this exactly as I observed it.  [Please check it out.](https://bogoodski.com/maui.html)
+
 # Aug 4: 
 
 Today, we implemented this: 
