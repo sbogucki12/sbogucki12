@@ -18,48 +18,21 @@ I'm about halfway through the course but just began taking notes in Notebooks wi
 
 Professionally, I've changed positions and now manage a division within our Chief Data Office, overseeing our Analytics Enablement and Tools & Technology branches.  It's a really exciting opportunity, certianly one in which I intend to learn much!
 
+# Sept 9
+
+Completed the final lesson in my eCornell Machine Learning certificate course!
+
+This is crazy to me. Between this and the Python for Data Science course, these lessons started all the way back during LAST September. One year worth of two- and three-week lessons.
+
+This final lesson was on neural networks. The first exercise challenged us to code a neural network from scratch, including the ReLU function, calculating mean squared loss, utilizing softmax to get probabilities, executing gradient descent, forward and backward propagation. Though I loved that coding from scratch demystified the neural network black box, I was happy that we were introduced to pytorch for the final two exercises: image recognition (convolutional neural network) and sequence/language models and recurrent neural networks.
+
+I really appreciate the Federal Aviation Administration for giving us the opportunity to complete this training. I have a much better understanding of how these technologies work, and will be able to participate with my team and lead it more effectively because of it. Really excited for the work that we are doing!
+
+![https://github.com/sbogucki12/sbogucki12.github.io/blob/main/media/readme/interview-images-prompt.jpg](https://media.licdn.com/dms/image/D5622AQEHht8-lTJDag/feedshare-shrink_2048_1536/0/1694298873696?e=1697068800&v=beta&t=-8GcnjM9DWbq9aNeiSrJqTiEBDmfht8uLqXQnt5sQJE)
+
 # Aug 16:
 
 Just added my Maui story.  I really put my heart into telling this exactly as I observed it.  [Please check it out.](https://bogoodski.com/maui.html)
-
-# Aug 4: 
-
-Today, we implemented this: 
-
-
-![Interview Images Prompt](https://github.com/sbogucki12/sbogucki12.github.io/blob/main/media/readme/interview-images-prompt.jpg)
-# Aug 3: 
-
-Added a video to the site that I am building with ChatGPT. 
-![Image](https://github.com/sbogucki12/sbogucki12.github.io/blob/main/media/readme/bogoodski-intro-vid-thumb.png)
-
-# Aug 2
-
-Used ChatGPT to write the code for a resume functionality that I added to the portfolio I am building. [BOGOODSKI ChatGPT](https://sbogucki12.github.io/)  
-I am using ChatGPT to the greatest extent possible to assist the coding process.  
-Here is today's conversation: [ChatGPT: Build me a website](https://chat.openai.com/share/c6599edc-b2e6-4c26-a9fd-78e6c78d456c)
-
-# Aug 1
-
-In just a few hours over two evenings, I was able to use ChatGPT and very little code to spin up a new site.  
-
-Here is the repo: 
-[BOGOODSKI ChatGPT Repo](https://github.com/sbogucki12/sbogucki12.github.io)
-
-Here is the site (github pages): 
-[BOGOODSKI ChatGPT](https://sbogucki12.github.io/)
-
-Here is the ChatGPT discussion, prompts that "developed" this site: 
-[ChatGPT: Build me a website](https://chat.openai.com/share/c6599edc-b2e6-4c26-a9fd-78e6c78d456c)
-
-![Modal and Carousel](https://github.com/sbogucki12/sbogucki12.github.io/blob/main/media/readme/modal-gif.gif)
-
-# July 31
-
-Completed lesson.  Learned how to code our own Support Vector Machines, how to match regularizers and loss functions, and how to add dimensionality to vectors utilizing the kernel trick.  
-
-![Image](https://github.com/sbogucki12/datascience/blob/main/kernel%201.png)
-![Image](https://github.com/sbogucki12/datascience/blob/main/kernel%202.png)
 
 
 
