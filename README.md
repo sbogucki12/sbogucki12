@@ -20,6 +20,13 @@ Starting about halfway through the course, I recorded my notes in ipynb notebook
 
 
 
+# Sep 24: 
+
+Added another section to bogoodski.com, utilized ChatGPT to the greatest extent possible to generate the HTML/CSS.
+
+![https://github.com/sbogucki12/sbogucki12.github.io/blob/main/media/readme/websites_section.jpg](https://github.com/sbogucki12/sbogucki12.github.io/blob/main/media/readme/websites_section.jpg)
+
+![https://github.com/sbogucki12/sbogucki12.github.io/blob/main/media/readme/websites_section_prompt.jpg](https://github.com/sbogucki12/sbogucki12.github.io/blob/main/media/readme/websites_section_prompt.jpg)
 
 
 
