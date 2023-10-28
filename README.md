@@ -2,7 +2,7 @@
 
 I'm Steve. 
 
-I just completed the eCornell Machine Learning certificate course.  
+Like Andy Bernard, I just completed the eCornell Machine Learning certificate course.  
 
 ![https://raw.githubusercontent.com/sbogucki12/sbogucki12.github.io/main/media/readme/cornell-certificate.jpg](https://raw.githubusercontent.com/sbogucki12/sbogucki12.github.io/main/media/readme/cornell-certificate.jpg)
 
