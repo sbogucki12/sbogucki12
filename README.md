@@ -25,13 +25,17 @@ Which dimensions of my runs most affect my pace?
 
 ![Feature Interpretation](https://github.com/sbogucki12/sbogucki12/assets/29557043/4f7c1da3-b100-4526-8a47-b3707c2e2969)
 
+Now, I'm trying to predict my future runs, based on the feature analysis but taking into account my current increased performance but also the eventual and gradual in decrease that will come with increased age.  It's a work in progress.  Lol. 
+
+
+
 I used ChatGPT as much as possible to help me generate the code.  Here's the prompts/discussion: 
 
-[chatGPT](https://chat.openai.com/share/e3e3c0ec-c761-4d86-a41a-4210ebb9b6c3)
+[chatGPT](https://chat.openai.com/share/8285b4e1-8ef5-434d-a585-13bbdf5b0bfa)
 
 Here's the Notebook: 
 
-[Notebook](https://github.com/sbogucki12/datascience/blob/main/runlogoct272023-eda.ipynb)
+[Notebook](https://github.com/sbogucki12/workoutdata/blob/main/runlogoct272023-eda.ipynb)
 
 
 # Aug 16:
