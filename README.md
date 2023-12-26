@@ -17,7 +17,7 @@ I've been adding more practice data analysis in that repo...
 
 ## Dec 26, 2023
 
-I am working through Professor Leonard's math tutorials on YouTube.  I am collecting my notes in a repo.  HERE. 
+I am working through Professor Leonard's math tutorials on YouTube.  I am collecting my notes in a repo.  [HERE](https://github.com/sbogucki12/math_tutorial). 
 
 I have been very interested in updating my math skills.  I find math fascinating and love to read about it, but lack as much formal education as I'd like. 
 
